@@ -2,7 +2,7 @@ steps:
   # Install
   - name: "gcr.io/cloud-builders/npm"
     args: ["install"]
-  # Test
+  # Test: will be later!!!
   # - name: "gcr.io/cloud-builders/npm"
   #   args: ["run", "test:unit"]
   # Build
