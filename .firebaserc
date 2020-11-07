@@ -1,5 +1,5 @@
 {
   "projects": {
-    "default": "td-cloud-run2"
+    "default": "td-cloudbuild-app2"
   }
 }
